@@ -15,7 +15,7 @@ class AnnouncementListScreen extends StatelessWidget {
       body: ListView.builder(
         itemCount: items.length,
         itemBuilder: (context, index) =>
-            AnnouncementCard(announcement: items[index]),
+          AnnouncementCard(announcement: items[index]),
       ),
     );
   }
