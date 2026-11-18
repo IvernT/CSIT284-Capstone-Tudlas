@@ -5,7 +5,10 @@ A new Flutter project.
 ## Getting Started
 
 This project is called School Announcement Board.
+Name: Ivern M. Tudlas
+Workstation Number: 14
 
+Project Discription
 Core features: List of announcements, push notification on new post, admin can post (simple form) 
 Cut for scope: Text-only posts, no images/comments
 
