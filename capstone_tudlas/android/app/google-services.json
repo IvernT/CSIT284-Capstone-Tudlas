@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "946846486110",
+    "firebase_url": "https://school-announcement-boar-99f63-default-rtdb.firebaseio.com",
+    "project_id": "school-announcement-boar-99f63",
+    "storage_bucket": "school-announcement-boar-99f63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946846486110:android:8ebead52a98bb1ad266ecf",
+        "android_client_info": {
+          "package_name": "com.example.capstone_tudlas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGb5Q5CpxJ2jOt6L3Myv_IHT9z80pDdy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
